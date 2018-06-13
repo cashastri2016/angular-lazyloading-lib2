@@ -1,5 +1,5 @@
 {
-  "inventory-lib":{
+  "/inventory-lib":{
     "target":"http://localhost:5050",
     "secure": false,
     "logLevel": "debug"
