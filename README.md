@@ -47,3 +47,5 @@ The routing I am thinking to use is as below ( see orders where child route is l
 * Angular CLI >6.0.0    https://cli.angular.io/
 * http-server https://www.npmjs.com/package/http-server
 
+
+**Note:** Right now this code build will fail because webpack will not find orders route path;
